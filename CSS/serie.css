@@ -1,0 +1,41 @@
+*{box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Share Tech Mono', monospace}
+html{
+    background-image: url(/image/f37256b61802fb2c715a383c84a011a4.jpg);
+}
+nav {
+    display:flex;
+    justify-content:space-around;
+    background-color:#413c5c00 ;
+
+}
+
+.enlace {
+        
+    font-size: 25px;
+    display:inline-block     ;
+    color: #dcd0f3;;
+    padding:0;
+    margin:0;
+    text-align:center;
+    box-sizing:border-box ;
+    text-decoration:none ;
+    ;
+    }
+    h1{font-size: 35px; color: #dcd0f3;}
+    h2{ color: #dcd0f3;}
+    h3{ font-size: 25px;
+        color: #dcd0f3;}
+footer { color: #dcd0f3;
+
+}
+.link {
+    color: #dcd0f3;
+    font-size: 30px;
+}
+.download {
+    color: #dcd0f3
+    
+}

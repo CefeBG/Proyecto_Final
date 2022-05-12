@@ -1,0 +1,38 @@
+html{ background-image: url(/image/f37256b61802fb2c715a383c84a011a4.jpg);}
+* {box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Share Tech Mono', monospace; 
+    font-size: 19px;
+
+    
+}
+#banner { 
+    width:100%;
+    margin:0; 
+    padding:0; 
+    }
+.banner{
+    width:auto;
+}
+
+.enlace {
+font-size: 30px;;
+display: inline-block;
+color: #fff;
+padding:0;
+margin:0;
+text-align: center;
+box-sizing:border-box ;
+text-decoration:none
+;
+}
+div {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+footer { 
+    color: #fff;
+}
